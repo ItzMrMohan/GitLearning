@@ -8,6 +8,7 @@ adding one more
 adding tow more
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is gopi
 this is dinesh
 =======
@@ -19,3 +20,9 @@ Heloo Goapa ckasodnvois
 
 Helsd vojnd
 >>>>>>> a4aa68d (Hello World)
+=======
+
+Heloo Goapa ckasodnvois
+
+Helsd vojnd
+>>>>>>> a4aa68d4b606e80e77a2afd9b0f57d7ef194e085
