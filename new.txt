@@ -13,4 +13,9 @@ this is dinesh
 =======
 
 Heloo Goapa ckasodnvois
+<<<<<<< HEAD
 >>>>>>> fb9d7b5 (Hello Gopal)
+=======
+
+Helsd vojnd
+>>>>>>> a4aa68d (Hello World)
