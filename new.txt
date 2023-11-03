@@ -7,5 +7,10 @@ Hi this is mohan
 adding one more
 adding tow more
 
+<<<<<<< HEAD
 this is gopi
 this is dinesh
+=======
+
+Heloo Goapa ckasodnvois
+>>>>>>> fb9d7b5 (Hello Gopal)
