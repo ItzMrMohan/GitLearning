@@ -1,3 +1,9 @@
 This is my first commit
 this is my dev branch
+<<<<<<< Updated upstream
 I am using the Git stash commands
+=======
+
+
+Hi this is mohan
+>>>>>>> Stashed changes
